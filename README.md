@@ -2,6 +2,7 @@
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
-# Creating an HTTP API with Ktor
+# An HTTP API with Ktor
 
-This repository is the code corresponding to the hands-on lab [Creating HTTP APIs](https://ktor.io/docs/creating-http-apis.html). 
+ HTTP API using Kotlin and Ktor that can serve as a backend for any application, be it mobile, web, desktop, or even a B2B service.
+ 
